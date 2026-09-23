@@ -1,1 +1,1 @@
-# lab-4-learning
+Day 4 Hands-On Lab explores AI image generation using ChatGPT, Perplexity, Recraft, Ideogram, Firefly, Leonardo AI, and Gemini. The activity focuses on creating professional airport promotional images with blue and white colours, natural lighting, landscape layout, and no logos or text, supporting creative aviation marketing.
